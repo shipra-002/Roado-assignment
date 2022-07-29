@@ -1,0 +1,24 @@
+{
+  "name": "roado-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shipra-002/Roado-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shipra-002/Roado-assignment/issues"
+  },
+  "homepage": "https://github.com/shipra-002/Roado-assignment#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security"
+  }
+}
