@@ -19,6 +19,9 @@
   "dependencies": {
     "axios": "^0.27.2",
     "express": "^4.18.1",
-    "http": "^0.0.1-security"
+    "heroku": "^7.60.2",
+    "http": "^0.0.1-security",
+    "local": "^0.3.3",
+    "web": "^0.0.2"
   }
 }
